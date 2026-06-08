@@ -41,7 +41,7 @@ print(f"\nКінцевий результат: {account.get_balance()}")
 ```
 
 ### Програма вивела:
-![alt text](image (1).png)
+![alt text](image.png)
 
 ### 2.Наслідування:
 ```
